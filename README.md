@@ -15,7 +15,7 @@ cd Express-with-Unit-Testing-Example
 npm install
 ```
 
-Untuk menjalankan proggram
+Untuk menjalankan program
 ```
 npm run dev
 ```
